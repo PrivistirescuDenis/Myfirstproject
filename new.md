@@ -9,7 +9,4 @@ Here is some regular text.
 
 More text.
 
-Much moret text. 
-
-* bullet 3 
-** bullet 3.1
+Facem commit singurei.
