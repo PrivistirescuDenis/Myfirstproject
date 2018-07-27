@@ -8,3 +8,8 @@ Here is some regular text.
 [Link to Goole](https://www.google.com)
 
 More text.
+
+Much moret text. 
+
+* bullet 3 
+** bullet 3.1
