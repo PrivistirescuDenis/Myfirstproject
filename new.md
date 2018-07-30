@@ -1,7 +1,5 @@
 ##This is the header
 
-Here is some regular text.
-
 * bullet 1
 * bullet 2
 
@@ -9,5 +7,5 @@ Here is some regular text.
 
 More text.
 
-Facem commit singurei.
-More text, more text, more text. 
+facem commit singurei.
+More text, more text, more text.
